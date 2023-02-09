@@ -1,0 +1,24 @@
+{
+  "name": "facilitando-o-dia-a-dia",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Projeto individual M5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaellecardoso/Facilitando-o-dia-a-dia.git"
+  },
+  "author": "Rafaelle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaellecardoso/Facilitando-o-dia-a-dia/issues"
+  },
+  "homepage": "https://github.com/rafaellecardoso/Facilitando-o-dia-a-dia#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
